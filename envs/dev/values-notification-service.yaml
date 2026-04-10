@@ -58,7 +58,7 @@ configmap:
   SMTP_HOST: "smtp.example.com"
   SMTP_PORT: "587"
   EMAIL_FROM: "noreply-dev@example.com"
-  DB_HOST: pharma-dev-postgres.cs3c424yurej.us-east-1.rds.amazonaws.com
+  DB_HOST: pharma-dev-postgres.caxyg2w42c6i.us-east-1.rds.amazonaws.com
 
 envFrom:
   - secretRef:

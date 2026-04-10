@@ -18,7 +18,7 @@ ingress:
   annotations:
     # Set to "true" when TLS certificate is configured
     nginx.ingress.kubernetes.io/ssl-redirect: "false"
-  host: ac65f76687bc249ffadae54ec507f50b-770b3b5f44135d49.elb.us-east-1.amazonaws.com
+  host: afbd4bf5e86ac40e4857d838c32eccc0-055eb655b156fa8b.elb.us-east-1.amazonaws.com
   path: /
   pathType: Prefix
 
